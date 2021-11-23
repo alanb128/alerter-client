@@ -13,7 +13,7 @@ Here is the parts list:
 - one [16mm Illuminated Pushbutton - Yellow Momentary](https://www.adafruit.com/product/1441)
 - one [16mm Illuminated Pushbutton - Green Momentary](https://www.adafruit.com/product/1440)
 - one [Mini Panel Mount SPDT Toggle Switch](https://www.adafruit.com/product/3221)
-- one [Raspberry Pi Zero WH]
+- one [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/) or WH (with headers - easier)
 - one 6" x 3" x 2" project enclosure like [this](https://www.radioshack.com/products/radioshack-project-enclosure-6x3x2?variant=20332261445) or [this](https://www.amazon.com/dp/B07TS6RY85/)
 - two [3mm LED holders](https://www.adafruit.com/product/2179)
 - one 3mm red LED
@@ -23,6 +23,7 @@ Here is the parts list:
 - four 220 ohm resistors
 - one small breadboard PCB such as [this](https://www.adafruit.com/product/1214)
 - some female - female jumpers and headers
+- a micro SD card (at least 16GB) and a micro USB power supply
 
 Here is the schematic for connecting everything together:
 
